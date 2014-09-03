@@ -1,4 +1,4 @@
-imgwall
-=======
+jd_php_wordpress3.9.1
+====
 
-一个基于wordpress的图片墙网站
+imgwall ==���� ͼƬǽ
